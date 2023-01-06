@@ -1,0 +1,6 @@
+{
+  "name": "asl_fix",
+  "version": "1.0.0",
+  "description": "temp fix for ts issue related to AsyncLocalStorage",
+  "license": "MIT"
+}
